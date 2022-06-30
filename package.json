@@ -18,6 +18,9 @@
     "@angular/platform-browser": "~13.2.0",
     "@angular/platform-browser-dynamic": "~13.2.0",
     "@angular/router": "~13.2.0",
+    "@fortawesome/fontawesome-free": "^6.1.1",
+    "chart.js": "^3.7.1",
+    "mdb-angular-ui-kit": "git+https://oauth2:zsk5sgtWcQ7QRCPqV1qk@git.mdbootstrap.com/mdb/angular/mdb5/prd/mdb5-angular-ui-kit-pro-essential",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
